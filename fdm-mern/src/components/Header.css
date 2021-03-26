@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-top: 3px solid #3498DB;
+    background-color: #131c1e;
+}
+
+.header_logo {
+     object-fit: contain;
+     height: 40px;
+ }
+

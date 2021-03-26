@@ -1,0 +1,9 @@
+.Timer {
+    display: flex;
+    justify-content: center;
+}
+
+.Timer progress {
+    height: 24px;
+    width: 600px;
+}
